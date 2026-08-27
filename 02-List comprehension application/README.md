@@ -10,6 +10,8 @@ tester = {'info': [{"name": "Lauren", 'class standing': 'Junior', 'major': "Info
 ## Expected Output:
 Use list comprehension and only one line of code to get the values of the key 'name'.
 
+**Thinking**: List comprehension is a concise expression which requires a good logic.
+
 ## How to run
 ```bash
 python3 List comprehension.py 
