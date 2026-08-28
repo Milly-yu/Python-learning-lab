@@ -8,6 +8,6 @@ Read monthly data for 2016 and 2017 and compute the average S&P 500 closing pric
 - **'mean_SP'**: average S&P 500 closing price for the period.
 - **'max_interest'**: maximum long-term interest rate for the period.
 
-# How to run:
+### How to run:
 ```Bash
 python3 SP500.py
