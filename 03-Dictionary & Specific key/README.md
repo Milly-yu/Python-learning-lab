@@ -9,7 +9,8 @@ sentence = "The dog chased the rabbit into the forest but the rabbit was too qui
 
 
 ### Expected Output
-Create a dictionary and find the key that occurs most frequently.
+- **word_counts**: A dictionary counting the words.
+- **max_value_key**: The key with the maximum value.
 
 ### How to run
 ```bash
