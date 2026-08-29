@@ -9,8 +9,8 @@ sentence = "The dog chased the rabbit into the forest but the rabbit was too qui
 
 
 ### Expected Output
-- **word_counts**: A dictionary counting the words.
-- **max_value_key**: The key with the maximum value.
+- **word_counts**: a dictionary counting the words.
+- **max_value_key**: the key with the maximum value.
 
 ### How to run
 ```bash
