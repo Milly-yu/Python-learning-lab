@@ -9,7 +9,7 @@ A collection of python 3 scripts and mini projects focused on data processing an
 - **02-List comprehension application**: Using list comprehension to abstract values from sub-dictionaries.
 - **03-Dictionary & Specific key**: Word counting and the most frequent word.
 - **04-Nested list filtering**: Use if/else to extract data from nested lists.
-- **05-Nested if-else**: List content expansion using nested if-else.
+- **05-Nested if-else**: Nested if-else with List content expansion.
 
 ## Goal
 Actively using python 3 to solve simple problems.
