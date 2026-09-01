@@ -11,4 +11,4 @@ for per in percent_rain:
     else:
         resps.append('Nice day!')
 print(resps)
-# reminder: nothing special, just pay attention to some details: 1)the format of the nested if-elif-else; 2)don't forget the period, question  mark, and exclamation mark after each string.
+# reminder: nothing special, just pay attention to some details: 1)the format of the nested if-elif-else; 2)don't forget the period, question mark, and exclamation mark after each string.
