@@ -11,4 +11,4 @@ nums = ['1450', '33', '871', '19', '14378', '32', '1005', '44', '8907', '16']
 A new sorted list
 
 ## How to run
-python3 main.py
+python3  main.py
